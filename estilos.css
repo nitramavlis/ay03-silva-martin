@@ -1,0 +1,44 @@
+/* Referenciar el archivo CSS en el archivo HTML
+Hacer mínimo 7 reglas CSS referenciando a los selectores que quieran estilar y dentro de ellas utilizar al menos 3 propiedades
+Agregarle margin o padding a todos los divs en su archivo HTML */
+#momo{
+    background: green;
+}
+.aire{
+    border: 1px solid white;
+    margin-right: 200px;
+    width: 1000em
+}
+
+#cabecera{ 
+    background: rebeccapurple;
+} 
+
+
+#pata{ 
+    background: red;
+} 
+.destacado{ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em
+}
+
+#caja {
+    padding: 2000px; 
+    background: blue;
+
+}
+.desta{ 
+    margin-left: 100px;
+    width: 1000em
+}
+
+#ava{ 
+    background: gold;
+
+}
+.appa{
+    margin: 100px 150px 100px 50px;
+}
+
